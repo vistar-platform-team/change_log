@@ -4,7 +4,9 @@ python3, as usual.
 #Usage
 - Enter in your user/pw in lines 8 and 9 of the script. If necessary, alter the URL to get info on non-adnetwork campaigns.
 - On the command line, run:
-`python3 change_log.py 12/1/2016
+
+    `$ python3 change_log.py 12/1/2016`
+
 (The date can be in typed in any standard format. The date allows the user to define the active period; in this example, "12/1/2016" means "This script will only look for IOs that END after 12/1/2016."
 
 #What the script is doing
